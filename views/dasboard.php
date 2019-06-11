@@ -20,7 +20,7 @@
     <table class="table">
       <thead>
         <tr>
-          <td>No.</td>
+          <!-- <td>No.</td> -->
           <td>ID_VIDEO</td>
           <td>Judul</td>
           <td>Kategori</td>
