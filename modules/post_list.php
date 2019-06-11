@@ -14,7 +14,7 @@ $no++;
   $tanggal = strtotime($row['TANGGAL']);
   $id = date(('m-d'), $tanggal);
 	echo "<tr class='".$class."'>";
-	echo "<td></td>";
+	//echo "<td></td>";
     echo "<td>".$row['ID_VIDEO']."</td>";
     echo "<td>".$row['JUDUL']."</td>";
     echo "<td>".$row['KATEGORI']."</td>";
